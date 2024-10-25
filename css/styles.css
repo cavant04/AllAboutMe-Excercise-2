@@ -1,0 +1,23 @@
+body {
+    background-color: #c0eeff;
+}
+
+h1 {
+    color: cornflowerblue;
+    
+}
+h2 {
+    font-size: 20px
+}
+
+section {
+    color: blue;
+}
+
+.blue-text {
+    color: #4e7eec;
+}
+
+.pink-bg {
+    background-color: skyblue;
+}
